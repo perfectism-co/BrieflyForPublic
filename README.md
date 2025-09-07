@@ -1,7 +1,7 @@
 # Briefly-for-public
 
-## Demo
-<br>
+## Demo <br><br>
+
 [▶️ Demo Video](https://youtu.be/s-7gjAOMYL4)
 
 <br><br> 
